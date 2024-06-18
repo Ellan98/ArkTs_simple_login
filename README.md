@@ -8,7 +8,8 @@
 
 
 
-![home-page](https://github.com/Ellan98/ArkTs_simple_login/assets/113765152/638111d3-c2bd-462a-b7e8-cfdee396c3b8)
+![login-page](https://github.com/Ellan98/ArkTs_simple_login/assets/113765152/3fe48a0e-b1f6-4f18-8b60-173ea2ab7c19)
+
 
 
 
